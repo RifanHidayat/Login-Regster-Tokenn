@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="colorPrimary">#008577</color>
+        <color name="colorPrimaryDark">#00574B</color>
+        <color name="colorAccent">#D81B60</color>
+        <color name="putih">#FFFF</color>
+        <color name="hitam">#000</color>
+        <color name="hitam_transparant">#9000</color>
+        <color name="biru">#54a0ff</color>
+        <color name="biru_transparan">#9954a0ff</color>
+        <color name="hint">#dfe6e9</color>
+        <color name="colorPrimary2">#1984b4</color>
+        <color name="colorWhite">#ffffff</color>
+        <color name="colorPurple">#983CFF</color>
+        <color name="colorPurpleT">#64983cff</color>
+        <color name="colorBlue">#2FB4FF</color>
+        <color name="colorBlueT">#642fb4ff</color>
+        <color name="oren">#f0932b</color>
+        <color name="oren1">#e67e22</color>
+        <color name="oren2">#feca57</color>
+        <color name="col">#e1e1e1</color>
+        <color name="colorText">#ffff</color>
+        <color name="tab_indicator_gray">#c0c0c0</color>
+        <color name="tab_indicator_gray_transparant">#1Ac0c0c0</color>
+
+    </resources>
+
